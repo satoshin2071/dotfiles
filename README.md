@@ -1,1 +1,3 @@
-# dotfiles
+# Dotfiles
+
+Satoshin's  configuration files for .....
