@@ -140,6 +140,7 @@ alias gpushh='git push heroku master'
 #alias svn='/Applications/Xcode\ 2.app/Contents/Developer/usr/bin/svn'
 alias clsdmp='/Users/ssato/class-dump'
 alias sbopn='open -a /Applications/Sublime\ Text.app/'
+alias mdopn='open -a /Applications/Marked\ 2.app/'
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 
 ### Added by the Heroku Toolbelt
