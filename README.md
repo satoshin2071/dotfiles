@@ -7,7 +7,7 @@ Satoshin's  configuration files for .....
 ```
 NOTE:Avoid in verifying the "Xcode"
 
-% xattr -dr com.apple.quarantine path/to/Xcode-beta.app
+% xattr -dr com.apple.quarantine path/Xcode.app
 
 Installed via App Store
 % sudo chown -R root:wheel path/to/Xcode-beta.app
