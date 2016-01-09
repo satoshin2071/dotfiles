@@ -2,6 +2,10 @@
 
 Satoshin's  configuration files for .....
 
+## gitignore
+
+`git config --global core.excludesfile ~/.gitignore_global`
+
 ## Xcode 
 
 code snipet => /Users/Username/Library/Developer/Xcode/UserData/CodeSnippets
