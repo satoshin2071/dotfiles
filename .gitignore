@@ -1,5 +1,6 @@
 # OS X Finder
 .DS_Store
+.DS_Store?
 
 # Xcode per-user config
 *.mode1
@@ -10,7 +11,10 @@
 *.pbxuser
 *.xcworkspace
 xcuserdata
-./Pods
+
+#CocoaPod
+Pods/
+Podfile.lock
 
 # Build products
 build/
