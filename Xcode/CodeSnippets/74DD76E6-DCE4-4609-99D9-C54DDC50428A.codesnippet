@@ -33,6 +33,7 @@
     [super awakeFromNib];
 }
 
+
 + (instancetype)&lt;# className #&gt;
 {
     UINib *nib = [UINib nibWithNibName:NSStringFromClass(self) bundle:nil];
