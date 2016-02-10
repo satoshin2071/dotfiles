@@ -14,7 +14,7 @@ export PGDATA=/usr/local/var/postgres
 #[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
 
 # rbenv
-export PATH="$HOME/.rbenv/bin:$PATH" 
+export PATH="$HOME/.rbenv/versions/2.2.3/bin:$PATH" 
 eval "$(rbenv init - zsh)"
  
 ## 補完機能の強化
