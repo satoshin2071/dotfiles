@@ -22,3 +22,7 @@ NOTE:Avoid in verifying the "Xcode"
 Installed via App Store
 % sudo chown -R root:wheel path/Xcode.app
 ```
+
+## Karabiner
+
+`private.xml` relocate to `/Users/username/Library/Application Support/Karabiner` 
